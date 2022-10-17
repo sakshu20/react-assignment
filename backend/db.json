@@ -1,0 +1,20 @@
+{
+    "landingPage": [
+        {
+            "upButton":"Talk to us",
+            "mainHeading":"Grow your Business",
+            "halfHeading":"with Email Automation",
+            "mainImage":"https://outplayhq.com/images/Group-9452.png",
+            "mainButton":"Get Started",
+            "heading":"AI framework",
+            "sideImage":"https://media.istockphoto.com/vectors/artificial-intelligence-concept-dot-circuit-board-brain-logo-icon-vector-id908870536?k=20&m=908870536&s=612x612&w=0&h=aP6o7CJjtHT0gruOWvE_bPUMKMmLQEgNGDEv_pC24rA=",
+            "header_1":"Personalisation",
+            "desc_1":"The advanced intelligent system assists in reaching out to customers and increasing conversion funnel.",
+            "header_2":"Efficiency",
+            "desc_2":"Our data models help improve the content. Real-time delivery insights are monitored using AI and provide meaningful actions.",
+            "header_3":"Automation",
+            "desc_3":"Send email at scale using code written in your preferred programming language, such as Python, Java, or Curl.",
+            "footerImage":"https://www.tensorflow.org/static/site-assets/images/marketing/home/home-join-header.png"
+         }
+    ]
+}
